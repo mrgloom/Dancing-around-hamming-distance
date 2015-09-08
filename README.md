@@ -1,6 +1,6 @@
 # Dancing-around-hamming-distance
 
-Collection of various code snippets using hamming distance.
+Collection of various code snippets using hamming distance for image retrival.
 
 1. http://www.cs.toronto.edu/~norouzi/research/mlh/ Minimal Loss Hashing for Compact Binary Codes.
 2. http://www.cs.toronto.edu/~norouzi/research/mih/ Fast Exact Search in Hamming Space with Multi-Index Hashing.
@@ -19,6 +19,7 @@ TODO:
 1. Semantic hashing.
     https://github.com/gynnash/AutoEncoder
     http://www.cs.toronto.edu/~hinton/MatlabForSciencePaper.html 
+    http://www.cs.toronto.edu/~fritz/absps/sh.pdf
 2. Locality sensitive hashing with hamming distance.
     http://stackoverflow.com/questions/12952729/how-to-understand-locality-sensitive-hashing
     

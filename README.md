@@ -7,10 +7,12 @@ Collection of various code snippets using hamming distance.
 3. https://github.com/kevinlin311tw/caffe-cvprw15 Deep Learning of Binary Hash Codes.
 4. http://www.cs.huji.ac.il/~yweiss/SpectralHashing/ Spectral Hashing.
 
+~~~
 Efficient hamming distance computation:
 HammingDistance(x,y) = HammingWeight(x^y)
 https://en.wikipedia.org/wiki/Hamming_weight#Efficient_implementation
 http://notabs.org/blcutil/
+http://stackoverflow.com/questions/12380478/bits-counting-algorithm-brian-kernighan-in-an-integer-time-complexity
 
 TODO:
 
@@ -24,3 +26,4 @@ TODO:
 
 Cosine distance:
 Approaches different from hamming distance - "Randomly project points to low dimensional bit signatures such that cosine distance is approximately preserved". 
+~~~

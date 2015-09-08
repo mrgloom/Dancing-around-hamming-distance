@@ -15,3 +15,8 @@ TODO:
     http://www.cs.toronto.edu/~hinton/MatlabForSciencePaper.html 
 2. Locality sensitive hashing hamming distance
     http://stackoverflow.com/questions/12952729/how-to-understand-locality-sensitive-hashing
+    
+
+
+Cosine distance:
+Approaches different from hamming distance - "Randomly project points to low dimensional bit signatures such that cosine distance is approximately preserved". 

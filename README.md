@@ -8,6 +8,7 @@ Collection of various code snippets using hamming distance for image retrival.
 4. http://www.cs.huji.ac.il/~yweiss/SpectralHashing/ Spectral Hashing.
 
 Datases:
+
 1. http://groups.csail.mit.edu/vision/TinyImages/
 2. http://www.cs.toronto.edu/~kriz/cifar.html
 

@@ -7,6 +7,10 @@ Collection of various code snippets using hamming distance for image retrival.
 3. https://github.com/kevinlin311tw/caffe-cvprw15 Deep Learning of Binary Hash Codes.
 4. http://www.cs.huji.ac.il/~yweiss/SpectralHashing/ Spectral Hashing.
 
+Datases:
+1. http://groups.csail.mit.edu/vision/TinyImages/
+2. http://www.cs.toronto.edu/~kriz/cifar.html
+
 ~~~
 Efficient hamming distance computation:
 HammingDistance(x,y) = HammingWeight(x^y)

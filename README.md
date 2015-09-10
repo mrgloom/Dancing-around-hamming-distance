@@ -38,6 +38,7 @@ TODO:
     
 Binary features (BRIEF, ORB, BRISK):
 http://www.cs.ubc.ca/~lowe/papers/12mujaCRV.pdf 
+http://infoscience.epfl.ch/record/126376/files/OzuysalFL07.pdf
 
 Cosine distance:
 Approaches different from hamming distance - "Randomly project points to low dimensional bit signatures such that cosine distance is approximately preserved". 

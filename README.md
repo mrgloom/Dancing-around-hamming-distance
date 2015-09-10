@@ -45,6 +45,7 @@ http://frahm.web.unc.edu/files/2014/01/Fast-Organization-of-Large-Photo-Collecti
 Presentations:
 too complicated math, some relations to spectral hashing.
 https://www.robots.ox.ac.uk/~vgg/rg/slides/binarycodes.pdf
+https://www.robots.ox.ac.uk/~vgg/rg/
 
 Cosine distance:
 Approaches different from hamming distance - "Randomly project points to low dimensional bit signatures such that cosine distance is approximately preserved". 

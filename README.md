@@ -27,6 +27,8 @@ http://graphics.stanford.edu/~seander/bithacks.html#CountBitsSetKernighan
 https://github.com/mariusmuja/flann/search?utf8=%E2%9C%93&q=hamming
 https://github.com/mariusmuja/flann/blob/6f1d8f808f2605488c2882ce8fcfa3d5569576bc/doc/references.bib
 
+https://github.com/mrgloom/metric-tree-demo
+
 TODO:
 
 1. Semantic hashing.

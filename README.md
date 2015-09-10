@@ -43,6 +43,7 @@ http://infoscience.epfl.ch/record/126376/files/OzuysalFL07.pdf
 http://frahm.web.unc.edu/files/2014/01/Fast-Organization-of-Large-Photo-Collections.pdf
 
 Presentations:
+too cimplicated math, some relations to spectral hashing.
 https://www.robots.ox.ac.uk/~vgg/rg/slides/binarycodes.pdf
 
 Cosine distance:

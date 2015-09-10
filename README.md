@@ -15,7 +15,7 @@ Datases:
 
 
 ~~~
-tags: hamming distance, hamming embedding, locality sensitive hashing, semantic hashing, min-hash.
+tags: hamming distance, hamming embedding, binary codes, locality sensitive hashing, semantic hashing, min-hash.
 
 Efficient hamming distance computation:
 HammingDistance(x,y) = HammingWeight(x^y)
@@ -41,6 +41,9 @@ http://www.cs.ubc.ca/~lowe/papers/12mujaCRV.pdf
 http://infoscience.epfl.ch/record/126376/files/OzuysalFL07.pdf
 
 http://frahm.web.unc.edu/files/2014/01/Fast-Organization-of-Large-Photo-Collections.pdf
+
+Presentations:
+https://www.robots.ox.ac.uk/~vgg/rg/slides/binarycodes.pdf
 
 Cosine distance:
 Approaches different from hamming distance - "Randomly project points to low dimensional bit signatures such that cosine distance is approximately preserved". 

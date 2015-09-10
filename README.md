@@ -24,6 +24,7 @@ http://notabs.org/blcutil/
 http://stackoverflow.com/questions/12380478/bits-counting-algorithm-brian-kernighan-in-an-integer-time-complexity
 https://web.archive.org/web/20100604050922/http://infolab.stanford.edu/~manku/bitcount/bitcount.c
 http://graphics.stanford.edu/~seander/bithacks.html#CountBitsSetKernighan
+https://github.com/mariusmuja/flann/search?utf8=%E2%9C%93&q=hamming
 
 TODO:
 

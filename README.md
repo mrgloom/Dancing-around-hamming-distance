@@ -32,7 +32,8 @@ TODO:
 2. Locality sensitive hashing with hamming distance.
     http://stackoverflow.com/questions/12952729/how-to-understand-locality-sensitive-hashing
     
-
+Binary features (BRIEF, ORB, BRISK):
+http://www.cs.ubc.ca/~lowe/papers/12mujaCRV.pdf 
 
 Cosine distance:
 Approaches different from hamming distance - "Randomly project points to low dimensional bit signatures such that cosine distance is approximately preserved". 

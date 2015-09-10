@@ -15,7 +15,7 @@ Datases:
 
 
 ~~~
-tags: hamming distance, locality sensitive hashing, semantic hashing, min-hash.
+tags: hamming distance, hamming embedding, locality sensitive hashing, semantic hashing, min-hash.
 
 Efficient hamming distance computation:
 HammingDistance(x,y) = HammingWeight(x^y)

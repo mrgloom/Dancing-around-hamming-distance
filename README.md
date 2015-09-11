@@ -12,6 +12,7 @@ Datases:
 1. http://groups.csail.mit.edu/vision/TinyImages/
 2. http://www.cs.toronto.edu/~kriz/cifar.html
 3. http://www.vision.caltech.edu/Image_Datasets/Caltech101/
+4. http://www.robots.ox.ac.uk/~vgg/data/oxbuildings/
 
 
 ~~~

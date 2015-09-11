@@ -38,7 +38,9 @@ TODO:
 2. Locality sensitive hashing with hamming distance.
     http://stackoverflow.com/questions/12952729/how-to-understand-locality-sensitive-hashing
 
+Deep learning:
 https://github.com/BVLC/caffe/wiki/Model-Zoo#deep-learning-of-binary-hash-codes-for-fast-image-retrieval
+https://www.cs.toronto.edu/~hinton/csc2535/notes/lec8b.pdf
 
 Binary features (BRIEF, ORB, BRISK):
 http://www.cs.ubc.ca/~lowe/papers/12mujaCRV.pdf 

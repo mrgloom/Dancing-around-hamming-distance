@@ -50,6 +50,7 @@ http://www.cs.ubc.ca/~lowe/papers/12mujaCRV.pdf
 http://infoscience.epfl.ch/record/126376/files/OzuysalFL07.pdf
 
 http://frahm.web.unc.edu/files/2014/01/Fast-Organization-of-Large-Photo-Collections.pdf
+http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Gong_Web_Scale_Photo_2015_CVPR_paper.pdf
 
 Presentations:
 too complicated math, some relations to spectral hashing.

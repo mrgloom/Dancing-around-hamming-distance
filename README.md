@@ -42,6 +42,7 @@ TODO:
 
 Deep learning:
 https://github.com/BVLC/caffe/wiki/Model-Zoo#deep-learning-of-binary-hash-codes-for-fast-image-retrieval
+https://github.com/kevinlin311tw/Caffe-DeepBinaryCode
 https://www.cs.toronto.edu/~hinton/csc2535/notes/lec8b.pdf
 http://arxiv.org/pdf/1404.1777v2.pdf
 

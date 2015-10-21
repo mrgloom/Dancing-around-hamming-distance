@@ -61,4 +61,7 @@ https://www.robots.ox.ac.uk/~vgg/rg/
 
 Cosine distance:
 Approaches different from hamming distance - "Randomly project points to low dimensional bit signatures such that cosine distance is approximately preserved". 
+
+Perceptive hash:
+https://github.com/JohannesBuchner/imagehash
 ~~~

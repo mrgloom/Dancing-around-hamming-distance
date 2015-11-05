@@ -37,6 +37,7 @@ TODO:
     https://github.com/gynnash/AutoEncoder
     http://www.cs.toronto.edu/~hinton/MatlabForSciencePaper.html 
     http://www.cs.toronto.edu/~fritz/absps/sh.pdf
+    http://www.cs.toronto.edu/~amnih/cifar/talks/salakhut_talk.pdf
 2. Locality sensitive hashing with hamming distance.
     http://stackoverflow.com/questions/12952729/how-to-understand-locality-sensitive-hashing
 

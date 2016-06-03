@@ -48,6 +48,7 @@ https://github.com/kevinlin311tw/caffe-cvprw15
 https://www.cs.toronto.edu/~hinton/csc2535/notes/lec8b.pdf
 http://arxiv.org/pdf/1404.1777v2.pdf
 https://github.com/kevinlin311tw/Caffe-DeepBinaryCode
+https://github.com/kevinlin311tw/cvpr16-deepbit
 
 Binary features (BRIEF, ORB, BRISK):
 http://www.cs.ubc.ca/~lowe/papers/12mujaCRV.pdf 

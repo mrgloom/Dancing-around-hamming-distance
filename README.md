@@ -67,4 +67,7 @@ Approaches different from hamming distance - "Randomly project points to low dim
 
 Perceptive hash:
 https://github.com/JohannesBuchner/imagehash
+
+Image search engine:
+https://arxiv.org/pdf/1505.07647v2.pdf
 ~~~

@@ -62,6 +62,9 @@ too complicated math, some relations to spectral hashing.
 https://www.robots.ox.ac.uk/~vgg/rg/slides/binarycodes.pdf
 https://www.robots.ox.ac.uk/~vgg/rg/
 
+Hashing:
+https://github.com/willard-yuan/hashing-baseline-for-image-retrieval
+
 Cosine distance:
 Approaches different from hamming distance - "Randomly project points to low dimensional bit signatures such that cosine distance is approximately preserved". 
 

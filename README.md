@@ -73,4 +73,11 @@ https://github.com/JohannesBuchner/imagehash
 
 Image search engine:
 https://arxiv.org/pdf/1505.07647v2.pdf
+
+https://github.com/valbok/HEngine/
+~~~
+
+Blog posts:
+~~~
+https://habrahabr.ru/post/211264/
 ~~~

@@ -64,6 +64,7 @@ https://www.robots.ox.ac.uk/~vgg/rg/
 
 Hashing:
 https://github.com/willard-yuan/hashing-baseline-for-image-retrieval
+https://github.com/lhmRyan/deep-supervised-hashing-DSH
 
 Cosine distance:
 Approaches different from hamming distance - "Randomly project points to low dimensional bit signatures such that cosine distance is approximately preserved". 

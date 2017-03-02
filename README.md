@@ -76,7 +76,7 @@ https://github.com/JohannesBuchner/imagehash
 Image search engine:
 https://arxiv.org/pdf/1505.07647v2.pdf
 
-Engine:
+Search engine:
 https://github.com/valbok/HEngine/
 https://github.com/facebookresearch/faiss
 ~~~

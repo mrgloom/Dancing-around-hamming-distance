@@ -79,6 +79,9 @@ https://arxiv.org/pdf/1505.07647v2.pdf
 Search engine:
 https://github.com/valbok/HEngine/
 https://github.com/facebookresearch/faiss
+
+Binary networks:
+https://github.com/allenai/XNOR-Net
 ~~~
 
 Blog posts:

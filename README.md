@@ -67,6 +67,9 @@ https://github.com/willard-yuan/hashing-baseline-for-image-retrieval
 https://github.com/lhmRyan/deep-supervised-hashing-DSH
 https://github.com/yexithu/ImageNetRetrieval
 
+LSH
+https://github.com/RSIA-LIESMARS-WHU/LSHBOX
+
 Cosine distance:
 Approaches different from hamming distance - "Randomly project points to low dimensional bit signatures such that cosine distance is approximately preserved". 
 

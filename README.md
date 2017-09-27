@@ -91,3 +91,8 @@ Blog posts:
 ~~~
 https://habrahabr.ru/post/211264/
 ~~~
+
+To look at:
+~~~
+https://github.com/facebookresearch/supervised-hashing-baselines
+~~~
